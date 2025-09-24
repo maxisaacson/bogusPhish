@@ -70,7 +70,7 @@
 
   <!-- Banner with PENGU.png -->
   <div class="banner" role="img" aria-label="Penguin graphic">
-    <img src="images/PENGU.png" alt="PENGU" />
+    <img src="pingu.jpg" alt="PENGU" />
     <div class="overlay" aria-hidden="false">
       <h1>GOTCHA!</h1>
       <p>This was a simulated phishing exercise.</p>
