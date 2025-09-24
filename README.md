@@ -68,14 +68,15 @@
 </head>
 <body>
 
-  <!-- Banner with PENGU.png -->
-  <div class="banner" role="img" aria-label="Penguin graphic">
-    <img src="pingu.jpg" alt="PENGU" />
-    <div class="overlay" aria-hidden="false">
-      <h1>GOTCHA!</h1>
-      <p>This was a simulated phishing exercise.</p>
-    </div>
+<!-- GIF banner -->
+<div class="banner" role="img" aria-label="Penguin animation">
+  <img src="pengu.gif" alt="PENGU animation" style="width:100%; height:80vh; object-fit:cover; display:block;">
+  <div class="overlay">
+    <h1>GOTCHA!</h1>
+    <p>This was a simulated phishing exercise.</p>
+    <p>Max is disappointed.</p>
   </div>
+</div>
 
   <!-- Content explaining the simulation and next steps -->
   <main class="container">
